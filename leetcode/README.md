@@ -1,2 +1,16 @@
-# CodeHub 
 A collection of LeetCode questions to ace the coding interview! - Created using [CodeHub](https://github.com/rishijain07/CodeHub)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+<!---LeetCode Topics End-->
