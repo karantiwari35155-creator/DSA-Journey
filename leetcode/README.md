@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
