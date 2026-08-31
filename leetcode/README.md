@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
