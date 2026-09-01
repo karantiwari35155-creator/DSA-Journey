@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0054-spiral-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
