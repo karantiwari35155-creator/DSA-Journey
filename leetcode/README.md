@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
 <!---LeetCode Topics End-->
