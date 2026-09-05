@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0074-search-a-2d-matrix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Sorting
 |  |
