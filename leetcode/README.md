@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
