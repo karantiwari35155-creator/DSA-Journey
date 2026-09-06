@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
 | [1677-matrix-diagonal-sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
