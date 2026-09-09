@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
 | [1677-matrix-diagonal-sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/1677-matrix-diagonal-sum) |
@@ -28,9 +29,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -78,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 <!---LeetCode Topics End-->
