@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0443-string-compression) |
 ## Design
 |  |
 | ------- |
