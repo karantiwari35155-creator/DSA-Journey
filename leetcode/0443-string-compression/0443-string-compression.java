@@ -1,34 +1,31 @@
 class Solution {
     public int compress(char[] chars) {
-        int write = 0;
+        StringBuilder sb = new StringBuilder();
         int read = 0;
         
         while (read < chars.length) {
             char currentChar = chars[read];
             int count = 0;
             
-            // Count the occurrences of the current character
+            // 1. Count the group size
             while (read < chars.length && chars[read] == currentChar) {
                 read++;
                 count++;
             }
             
-            // Write the character to the write pointer position
-            chars[write] = currentChar;
-            write++;
-            
-            // If the character repeated, write the count digits
+            // 2. Build the compressed version inside StringBuilder
+            sb.append(currentChar);
             if (count > 1) {
-                // Convert the integer count to a string to easily extract digits
-                String countStr = Integer.toString(count);
-                for (char c : countStr.toCharArray()) {
-                    chars[write] = c;
-                    write++;
-                }
+                sb.append(count);
             }
         }
         
-        // The write pointer represents the new length of the compressed array
-        return write;
+        // 3. Overwrite the original array with our built string characters
+        for (int i = 0; i < sb.length(); i++) {
+            chars[i] = sb.charAt(i);
+        }
+        
+        // 4. Return the new compressed length
+        return sb.length();
     }
 }
