@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0303-range-sum-query-immutable) |
 | [1677-matrix-diagonal-sum](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0443-string-compression) |
 ## Sorting
 |  |
