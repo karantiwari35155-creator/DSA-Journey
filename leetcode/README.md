@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/karantiwari35155-creator/DSA-Journey/tree/master/LeetCode/0278-first-bad-version) |
 <!---LeetCode Topics End-->
